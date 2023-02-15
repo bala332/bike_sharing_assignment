@@ -1,4 +1,4 @@
-# Bike-Sharing-Assignment
+# Bike Sharing Assignment
 This is an assignment wherein a multiple linear regression model is built to predict demand for shared bikes depending on the current trend.
 
 This assignment is a programming assignment wherein you have to build a multiple linear regression model for the prediction of demand for shared bikes. A bike-sharing system is a service in which bikes are made available for shared use to individuals on a short term basis for a price or free. Many bike share systems allow people to borrow a bike from a "dock" which is usually computer-controlled wherein the user enters the payment information, and the system unlocks it. This bike can then be returned to another dock belonging to the same system.
